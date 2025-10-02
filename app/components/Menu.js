@@ -28,4 +28,5 @@ function Menu() {
     )
 }
 
+<p> nhin gi</p>
 export default Menu
